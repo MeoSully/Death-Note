@@ -4,7 +4,7 @@
     Distros tested on : Kali Rolling
 
 ## Description:
-	I named the tool Death-Note because I hope it's as strong as its name
+	I named the tool Death-Note
 # Download Tool:
 
 ```
